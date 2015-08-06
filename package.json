@@ -1,0 +1,31 @@
+{
+  "name": "charlton.io",
+  "version": "1.0.0",
+  "description": "_(and [charlton.nyc](http://charlton.nyc), and [charlton.party](http://charlton.party))_",
+  "main": "template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charltoons/charlton.io.git"
+  },
+  "author": "Charlton Roberts <charltonroberts@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charltoons/charlton.io/issues"
+  },
+  "homepage": "https://github.com/charltoons/charlton.io#readme",
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.6",
+    "reactify": "^1.1.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
